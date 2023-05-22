@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DmiPy
+- 👋 Hi, I’m Dmitriy
 - 👀 I’m interested in Computer and Data Science
 - 🌱 I’m currently learning Python, Pandas, Matplotlib and Algorithms
 - 💞️ I’m looking to collaborate on new Projects
